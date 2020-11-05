@@ -13,11 +13,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 5. | [chengmei-tan](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan) | chengmei-tan / meeeei@gmail.com | [Commit from main (2)](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commit&#x2F;3c98f71c6f737f59b1c5fde573f002ec9053f31a) / Thu Nov 05 2020 | [15](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commits) |
 | 6. | [zarabashri](https:&#x2F;&#x2F;github.com&#x2F;zarabashri) | Zara Bashri / 73217622+zarabashri@users.noreply.github.com | [Fixed documentation (#2)](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commit&#x2F;9eec1010694b7440da8fd15540675105c18129c9) / Thu Nov 05 2020 | [5](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commits) |
 | 7. | [arieffaiffmann](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann) | Arieff Aimann / epicestemail@gmail.com | [test](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commit&#x2F;5d15c23848fe62355095737a52f202bcefb622a7) / Thu Nov 05 2020 | [1](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commits) |
-| 8. | [cfsoo](https:&#x2F;&#x2F;github.com&#x2F;cfsoo) | Chuak Fen / 35244326+cfsoo@users.noreply.github.com | [Cfsoo new feature (#1)
-
-* my change
-
-* Add 3rd line](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;70349ea8a8935003cc01e83455c5b04fb3838c46) / Thu Nov 05 2020 | [3](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
+| 8. | [cfsoo](https:&#x2F;&#x2F;github.com&#x2F;cfsoo) | cfsoo / chuakfen.soo@rizing.com | [commit test](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;345eb08d9792c6667b34a83ed0ffb46c14529f9e) / Thu Nov 05 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
 | 9. | []() | beeyanseh / evelynshe0923@gmail.com | [Added a demo pull request](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commit&#x2F;ae435d0af62e14735141a2bcf5117aa3f3dd9ab1) / Thu Nov 05 2020 | [5](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
