@@ -4,6 +4,8 @@ const request = require("then-request");
 const README_TEMPLATE = "./template/readme.mustache";
 const config = require("./config.json");
 
+require("dotenv").config();
+
 const Github = {
 	getCommitUrl: function(userId, repository) {
 		return `https://api.github.com/repos/${userId}/${repository}/commits`;
