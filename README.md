@@ -18,6 +18,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 * my change
 
 * Add 3rd line](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;70349ea8a8935003cc01e83455c5b04fb3838c46) / Thu Nov 05 2020 | [3](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
+| 9. | []() | beeyanseh / evelynshe0923@gmail.com | [Added a demo pull request](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commit&#x2F;ae435d0af62e14735141a2bcf5117aa3f3dd9ab1) / Thu Nov 05 2020 | [5](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
