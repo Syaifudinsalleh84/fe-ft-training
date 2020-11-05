@@ -9,12 +9,15 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 1. | [jcailan](https:&#x2F;&#x2F;github.com&#x2F;jcailan) | Jhodel Cailan / jhodel.cailan@gmail.com | [Fixed documentation (#3)](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;fiori-element&#x2F;commit&#x2F;d7c3e6f4dd85300dcd6c99eee45b6794eb538154) / Thu Nov 05 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;fiori-element&#x2F;commits) |
 | 2. | [akmasaupe](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe) | Nor Akma / 48899269+akmasaupe@users.noreply.github.com | [Added a demo pull request (#1)](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe&#x2F;fiori-element&#x2F;commit&#x2F;7d617a7670540d0157f3390ee703582df8f02f9d) / Thu Nov 05 2020 | [3](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe&#x2F;fiori-element&#x2F;commits) |
 | 3. | [steffijyt](https:&#x2F;&#x2F;github.com&#x2F;steffijyt) | Stephanie Tan Jia Yi / 43954668+steffijyt@users.noreply.github.com | [Added a demo pull request (#1)](https:&#x2F;&#x2F;github.com&#x2F;steffijyt&#x2F;fiori-element&#x2F;commit&#x2F;f2acf0daede7fbd845b8254275f86d7232183d84) / Thu Nov 05 2020 | [3](https:&#x2F;&#x2F;github.com&#x2F;steffijyt&#x2F;fiori-element&#x2F;commits) |
-| 4. | [melissaxd96](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96) | Melissa Sim / 73872266+melissaxd96@users.noreply.github.com | [Added a demo pull request (#1)](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96&#x2F;fiori-element&#x2F;commit&#x2F;3349ed38d95bde2d0a926e3cee164f0cf1bc238c) / Thu Nov 05 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96&#x2F;fiori-element&#x2F;commits) |
-| 5. | [chengmei-tan](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan) | Chengmei / 46519429+chengmei-tan@users.noreply.github.com | [Merge pull request #2 from chengmei-tan&#x2F;chengmei-new-feature
-
-Chengmei new feature](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commit&#x2F;e08f9480f7df1a969478a96fe59a685479d67abc) / Thu Nov 05 2020 | [13](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commits) |
+| 4. | [melissaxd96](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96) | Melissa Sim / melissa.sim@rizing.com | [this is my commit](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96&#x2F;fiori-element&#x2F;commit&#x2F;2217694e6a8c5464d8f65d756e4a399b333b44a0) / Thu Nov 05 2020 | [5](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96&#x2F;fiori-element&#x2F;commits) |
+| 5. | [chengmei-tan](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan) | chengmei-tan / meeeei@gmail.com | [Commit from main (2)](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commit&#x2F;3c98f71c6f737f59b1c5fde573f002ec9053f31a) / Thu Nov 05 2020 | [15](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commits) |
 | 6. | [zarabashri](https:&#x2F;&#x2F;github.com&#x2F;zarabashri) | Zara Bashri / 73217622+zarabashri@users.noreply.github.com | [Fixed documentation (#2)](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commit&#x2F;9eec1010694b7440da8fd15540675105c18129c9) / Thu Nov 05 2020 | [5](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commits) |
 | 7. | [arieffaiffmann](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann) | Arieff Aimann / epicestemail@gmail.com | [test](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commit&#x2F;5d15c23848fe62355095737a52f202bcefb622a7) / Thu Nov 05 2020 | [1](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commits) |
+| 8. | [cfsoo](https:&#x2F;&#x2F;github.com&#x2F;cfsoo) | Chuak Fen / 35244326+cfsoo@users.noreply.github.com | [Cfsoo new feature (#1)
+
+* my change
+
+* Add 3rd line](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;70349ea8a8935003cc01e83455c5b04fb3838c46) / Thu Nov 05 2020 | [3](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
