@@ -23,6 +23,7 @@
 	},
 	"homepage": "https://github.com/nspro-vesta/fe-ft-training#readme",
 	"dependencies": {
+		"dotenv": "^8.2.0",
 		"mustache": "^4.0.1",
 		"then-request": "^6.0.2"
 	},

@@ -21,7 +21,8 @@ const getCommits = async () => {
 
 		response = await request("GET", Github.getCommitUrl(user, "fiori-element"), {
 			headers: {
-				"User-Agent": "then-request"
+				"User-Agent": "then-request",
+				"Authorization": "token " + process.env.GITHUB_TOKEN
 			}
 		});
 
