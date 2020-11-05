@@ -13,6 +13,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 Added demo pull request](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commit&#x2F;c6cb4fb329961677390d757a92ed3babf78329d7) / Thu Nov 05 2020 | [3](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commits) |
 | 5. | [zarabashri](https:&#x2F;&#x2F;github.com&#x2F;zarabashri) | Zara Bashri / 73217622+zarabashri@users.noreply.github.com | [Fixed documentation (#2)](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commit&#x2F;9eec1010694b7440da8fd15540675105c18129c9) / Thu Nov 05 2020 | [5](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commits) |
+| 6. | [arieffaiffmann](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann) | Arieff Aimann / epicestemail@gmail.com | [test](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commit&#x2F;5d15c23848fe62355095737a52f202bcefb622a7) / Thu Nov 05 2020 | [1](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
