@@ -43,7 +43,6 @@ async function main() {
 	const data = {
 		commits: await getCommits()
 	};
-	console.log(data);
 
 	fs.readFile(README_TEMPLATE, (error, template) => {
 		if (error) {
