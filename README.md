@@ -15,6 +15,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 7. | [arieffaiffmann](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann) | Arieff Aiffmann / epicestemail@gmail.com | [Update README.md](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commit&#x2F;640bb01cdcc5e2ad2e84ca2706e492da877b371c) / Thu Nov 05 2020 | [10](https:&#x2F;&#x2F;github.com&#x2F;arieffaiffmann&#x2F;fiori-element&#x2F;commits) |
 | 8. | [cfsoo](https:&#x2F;&#x2F;github.com&#x2F;cfsoo) | cfsoo / chuakfen.soo@rizing.com | [commit test](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;345eb08d9792c6667b34a83ed0ffb46c14529f9e) / Thu Nov 05 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
 | 9. | []() | beeyanseh / evelynseh0923@gmail.com | [update with email address](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commit&#x2F;f61cbcf19d1b54da5cf29a1cbb1b00b21950382b) / Thu Nov 05 2020 | [6](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commits) |
+| 10. | [sysim](https:&#x2F;&#x2F;github.com&#x2F;sysim) | Siang Ying / 33644985+sysim@users.noreply.github.com | [Fixed documentation (#2)](https:&#x2F;&#x2F;github.com&#x2F;sysim&#x2F;fiori-element&#x2F;commit&#x2F;553b5b8907f331569315676455fd203d4ac3b476) / Thu Nov 05 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;sysim&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
