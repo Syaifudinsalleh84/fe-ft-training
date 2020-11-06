@@ -35,6 +35,7 @@ const getCommits = async () => {
 			item.commits = response.length;
 			// eslint-disable-next-line camelcase
 			item.commits_url = /^.*commit/.exec(item.user.html_url)[0] + "s";
+			item.user.commit.message = /^.*/.exec(item.user.commit.message)[0];
 			item.number = commits.push(item);
 		}
 	}
