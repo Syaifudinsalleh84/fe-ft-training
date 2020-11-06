@@ -8,7 +8,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | ---:| ------ | ---------------------- | -------------------- |:-------:|
 | 1. | [jcailan](https:&#x2F;&#x2F;github.com&#x2F;jcailan) | Jhodel Cailan / jhodel.cailan@rizing.com | [Added contents section](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;fiori-element&#x2F;commit&#x2F;ad86a6b8116b4dd8ad657d3bbb54537ebb57abe1) / Fri Nov 06 2020 | [7](https:&#x2F;&#x2F;github.com&#x2F;jcailan&#x2F;fiori-element&#x2F;commits) |
 | 2. | [akmasaupe](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe) | Akma Saupe / akma.saupe@rizing.com | [create folder for metadata tutorial](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe&#x2F;fiori-element&#x2F;commit&#x2F;c5ee3f458623bec1e19793cf7d85d81a8ed74695) / Fri Nov 06 2020 | [7](https:&#x2F;&#x2F;github.com&#x2F;akmasaupe&#x2F;fiori-element&#x2F;commits) |
-| 3. | [steffijyt](https:&#x2F;&#x2F;github.com&#x2F;steffijyt) | Stephanie Tan Jia Yi / stephanie.tan@rizing.com | [OData Tutorial Step 4: Add Supplier entity type and populate the entity type element](https:&#x2F;&#x2F;github.com&#x2F;steffijyt&#x2F;fiori-element&#x2F;commit&#x2F;ca984eb5f39eec7724d955f19ae577aaaad2d5aa) / Fri Nov 06 2020 | [20](https:&#x2F;&#x2F;github.com&#x2F;steffijyt&#x2F;fiori-element&#x2F;commits) |
+| 3. | [steffijyt](https:&#x2F;&#x2F;github.com&#x2F;steffijyt) | Stephanie Tan Jia Yi / stephanie.tan@rizing.com | [Missed out SupplierKey in previous commit](https:&#x2F;&#x2F;github.com&#x2F;steffijyt&#x2F;fiori-element&#x2F;commit&#x2F;0d828c887e9449ddb70d6cffdb6451e949c025f3) / Fri Nov 06 2020 | [21](https:&#x2F;&#x2F;github.com&#x2F;steffijyt&#x2F;fiori-element&#x2F;commits) |
 | 4. | [melissaxd96](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96) | Melissa Sim / melissa.sim@rizing.com | [Create folder for metadata tutorial](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96&#x2F;fiori-element&#x2F;commit&#x2F;65d13054e4e9348f7f207302fd413d221b294f09) / Fri Nov 06 2020 | [27](https:&#x2F;&#x2F;github.com&#x2F;melissaxd96&#x2F;fiori-element&#x2F;commits) |
 | 5. | [chengmei-tan](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan) | Chengmei Tan / chengmei.tan@rizing.com | [Step 5 - Add Suppliers in entity container](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commit&#x2F;373d6a5b733ac78dc094e5f7a9487f4a9212ef2e) / Fri Nov 06 2020 | [30](https:&#x2F;&#x2F;github.com&#x2F;chengmei-tan&#x2F;fiori-element&#x2F;commits) |
 | 6. | [zarabashri](https:&#x2F;&#x2F;github.com&#x2F;zarabashri) | Zara Bashri / fatima.zahra@rizing.com | [Create new metadata tutorial  folder](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commit&#x2F;ff22de42b72befc8048d70c281b7932f2bfdb830) / Fri Nov 06 2020 | [18](https:&#x2F;&#x2F;github.com&#x2F;zarabashri&#x2F;fiori-element&#x2F;commits) |
@@ -69,7 +69,9 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 ## Video Recordings
 
-1. [Visual Studio Code and Git - Part 1](https://web.microsoftstream.com/video/a9ca83d0-cc23-4792-93b1-df2676fae0ca) (Thu Nov 5 2020 / 3 hr 59 min)
-2. [Visual Studio Code and Git - Part 2](https://web.microsoftstream.com/video/3a183c92-8b2e-4741-92bd-7a03db60e4fd) (Thu Nov 5 2020 / 40 min)
-3. [Visual Studio Code and Git - Recap](https://web.microsoftstream.com/video/591f36b2-6fed-4f09-9741-a8964c76c43d) (Fri Nov 6 2020 / 1 hr 35 min)
-4. [Create OData Service Document - Tutorial Discussion](https://web.microsoftstream.com/video/ece7ca34-8b6f-42cf-a3c8-7942bc0ed16c) (Fri Nov 6 2020 / 34 min)
+| No. | Topic | Length | Date |
+| ---:| ----- | ------ | ---- |
+| 1. | [Visual Studio Code and Git - Part 1](https://web.microsoftstream.com/video/a9ca83d0-cc23-4792-93b1-df2676fae0ca) | 3 hr 59 min | Thu Nov 5 2020 |
+| 2. | [Visual Studio Code and Git - Part 2](https://web.microsoftstream.com/video/3a183c92-8b2e-4741-92bd-7a03db60e4fd) | 40 min | Thu Nov 5 2020 |
+| 3. | [Visual Studio Code and Git - Recap](https://web.microsoftstream.com/video/591f36b2-6fed-4f09-9741-a8964c76c43d)  | 1 hr 35 min | Fri Nov 6 2020 |
+| 4. | [Create OData Service Document - Tutorial Discussion](https://web.microsoftstream.com/video/ece7ca34-8b6f-42cf-a3c8-7942bc0ed16c) | 34 min | Fri Nov 6 2020 |
