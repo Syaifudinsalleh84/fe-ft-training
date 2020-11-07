@@ -8,7 +8,7 @@ require("dotenv").config();
 
 const Github = {
 	getCommitUrl: function(userId, repository) {
-		return `https://api.github.com/repos/${userId}/${repository}/commits`;
+		return `https://api.github.com/repos/${userId}/${repository}/commits?per_page=100`;
 	}
 };
 
