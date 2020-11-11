@@ -16,7 +16,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 8. | [cfsoo](https:&#x2F;&#x2F;github.com&#x2F;cfsoo) | Chuak Fen / chuakfen.soo@rizing.com | [Made correction to Association](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;0f70f0425a6348023118c37c25049f3b69f59959) / Fri Nov 06 2020 | [31](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
 | 9. | [sby0923](https:&#x2F;&#x2F;github.com&#x2F;sby0923) | Seh Bee Yan / beeyan.seh@rizing.com | [Update Namespace](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commit&#x2F;f8e5d23262f62445fdd8b27f7fc813b4c97aa3f8) / Mon Nov 09 2020 | [32](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commits) |
 | 10. | [sysim](https:&#x2F;&#x2F;github.com&#x2F;sysim) | SiangYing / siangying.sim@rizing.com | [Step 13: Modify entity container element](https:&#x2F;&#x2F;github.com&#x2F;sysim&#x2F;fiori-element&#x2F;commit&#x2F;0e7d5572ad98bc979af9b72f47ad4073d9a81901) / Sun Nov 08 2020 | [31](https:&#x2F;&#x2F;github.com&#x2F;sysim&#x2F;fiori-element&#x2F;commits) |
-| 11. | [yew-cs](https:&#x2F;&#x2F;github.com&#x2F;yew-cs) | yew-cs / 69384564+yew-cs@users.noreply.github.com | [Fixed documentation (#2)](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commit&#x2F;746ecfe956a616befc1236fef86f11e31649db57) / Tue Nov 10 2020 | [4](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commits) |
+| 11. | [yew-cs](https:&#x2F;&#x2F;github.com&#x2F;yew-cs) | csyew / yewchuoshing@gmail.com | [Revert &quot;My first change&quot;](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commit&#x2F;36a5f168bb8caa6a4dcfba69e0aeb36b17f9eece) / Wed Nov 11 2020 | [6](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
@@ -67,6 +67,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 6. Learn about Cherry Pick
 7. Learn about resolving conflicts
 8. Learn about Stash
+9. Learn about setting up Git Config
 
 ## Video Recordings
 
