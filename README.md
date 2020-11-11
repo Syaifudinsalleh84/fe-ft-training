@@ -78,4 +78,4 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 3. | [Visual Studio Code and Git - Recap](https://web.microsoftstream.com/video/591f36b2-6fed-4f09-9741-a8964c76c43d)  | 1 hr 35 min | Fri Nov 6 2020 |
 | 4. | [Create OData Service Document - Tutorial Discussion](https://web.microsoftstream.com/video/ece7ca34-8b6f-42cf-a3c8-7942bc0ed16c) | 34 min | Fri Nov 6 2020 |
 | 5. | [Create OData Service Document - Exercise Discussion](https://web.microsoftstream.com/video/97d8865c-0849-4765-84ed-56cd68ed6fe9) | 1 hr 6 min | Wed Nov 11 2020 |
-| 6. | [Create SAP Fiori Elements App = Tutorial Discussion](https://web.microsoftstream.com/video/1c62f6f6-ad69-41e0-a673-f98176a9c7a4) | 1 hr 3 min | Wed Nov 11 2020 |
+| 6. | [Create SAP Fiori Elements App - Tutorial Discussion](https://web.microsoftstream.com/video/1c62f6f6-ad69-41e0-a673-f98176a9c7a4) | 1 hr 3 min | Wed Nov 11 2020 |
