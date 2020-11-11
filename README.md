@@ -16,7 +16,7 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 8. | [cfsoo](https:&#x2F;&#x2F;github.com&#x2F;cfsoo) | Chuak Fen / chuakfen.soo@rizing.com | [Made correction to Association](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commit&#x2F;0f70f0425a6348023118c37c25049f3b69f59959) / Fri Nov 06 2020 | [31](https:&#x2F;&#x2F;github.com&#x2F;cfsoo&#x2F;fiori-element&#x2F;commits) |
 | 9. | [sby0923](https:&#x2F;&#x2F;github.com&#x2F;sby0923) | Seh Bee Yan / beeyan.seh@rizing.com | [Update Namespace](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commit&#x2F;f8e5d23262f62445fdd8b27f7fc813b4c97aa3f8) / Mon Nov 09 2020 | [32](https:&#x2F;&#x2F;github.com&#x2F;sby0923&#x2F;fiori-element&#x2F;commits) |
 | 10. | [sysim](https:&#x2F;&#x2F;github.com&#x2F;sysim) | SiangYing / siangying.sim@rizing.com | [Step 13: Modify entity container element](https:&#x2F;&#x2F;github.com&#x2F;sysim&#x2F;fiori-element&#x2F;commit&#x2F;0e7d5572ad98bc979af9b72f47ad4073d9a81901) / Sun Nov 08 2020 | [31](https:&#x2F;&#x2F;github.com&#x2F;sysim&#x2F;fiori-element&#x2F;commits) |
-| 11. | [yew-cs](https:&#x2F;&#x2F;github.com&#x2F;yew-cs) | Chuo Shing Yew / chuoshing.yew@rizing.com | [Update Github config setting](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commit&#x2F;4926befbca7c9c65d43d1ac3ead4641263215414) / Wed Nov 11 2020 | [8](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commits) |
+| 11. | [yew-cs](https:&#x2F;&#x2F;github.com&#x2F;yew-cs) | Chuo Shing Yew / chuoshing.yew@rizing.com | [Add association element](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commit&#x2F;db97786f1eb487be8cb68574f845fae4de933b0b) / Wed Nov 11 2020 | [17](https:&#x2F;&#x2F;github.com&#x2F;yew-cs&#x2F;fiori-element&#x2F;commits) |
 
 ## Prerequisites
 
@@ -46,8 +46,8 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 
 1. Tutorial - [Create OData Service Document](https://developers.sap.com/tutorials/hcp-webide-create-odata-model.html)
 2. Exercise - [Create OData Service Document](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EVNDaN_EKgpCiU6HcMJdBPoB5YPAIsrqBSPepsfQ9uiabQ?e=qnF9QF)
-3. Tutorial - Create SAP Fiori Elements App
-4. Exercise - Create SAP Fiori Elements App
+3. Tutorial - [Create SAP Fiori Elements App](https://developers.sap.com/group.fiori-tools-lrop.html)
+4. Exercise - [Create SAP Fiori Elements App](https://vestapartners.sharepoint.com/:w:/s/DDCKL/EYBYhuWlyQFJmYzdjiPYsnoB-IKSMEZSTD-0vtw0tFf6Qg?e=X75eK6)
 
 ## Visual Studio Code and Git
 
