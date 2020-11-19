@@ -82,3 +82,4 @@ This is a repository to host training contents for the SAP Fiori Elements using 
 | 6. | [Create SAP Fiori Elements App - Tutorial Discussion](https://web.microsoftstream.com/video/1c62f6f6-ad69-41e0-a673-f98176a9c7a4) | 1 hr 3 min | Wed Nov 11 2020 |
 | 7. | [Create SAP Fiori Elements App - Exercise Preparation](https://web.microsoftstream.com/video/2c946483-656a-4c07-9d7a-b250d59f4b3c) | 42 min | Thu Nov 12 2020 |
 | 8. | [Create SAP Fiori Elements App - Exercise Discussion](https://web.microsoftstream.com/video/38cc11ba-6004-4bce-ac2d-667f930d90b8) | 1 hr 3 min | Thu Nov 12 2020 |
+| 9. | [Create SAP Fiori Elements App - Exercise Discussion 2](https://web.microsoftstream.com/video/58ff78ed-a282-4533-a985-aa08570b0f42) | 48 min | Thu Nov 19 2020 |
